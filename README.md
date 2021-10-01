@@ -10,7 +10,7 @@
 Jeg holder for tiden på med en 2-årig datateknologimaster ved NTNU i trondheim med spessialiseringen programvaresystemer.  
 Jeg har også fullført en dataingeniørbachelor ved NTNU i Trondheim.  
 ###  
-### Teknologier:
+### Språk og Teknologier:
 <p float="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
