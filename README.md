@@ -7,8 +7,8 @@
 </body>    
 
 ###
-Jeg holder for tiden på med en 2-årig datateknologimaster ved NTNU i trondheim med spessialiseringen programvaresystemer.  
-Jeg har også fullført en dataingeniørbachelor ved NTNU i Trondheim.  
+- Jeg holder for tiden på med en 2-årig datateknologimaster ved NTNU i trondheim med spessialiseringen programvaresystemer.  
+- Jeg har også fullført en dataingeniørbachelor ved NTNU i Trondheim.  
 ###  
 ### Språk og Teknologier:
 <p float="left">
